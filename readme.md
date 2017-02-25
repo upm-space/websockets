@@ -1,6 +1,6 @@
-Código sacado del siguiente tutorial
+Código sacado del siguiente [tutorial](https://carlosazaustre.es/blog/websockets-como-utilizar-socket-io-en-tu-aplicacion-web/)
 
-https://carlosazaustre.es/blog/websockets-como-utilizar-socket-io-en-tu-aplicacion-web/
+
 
 Ver este artículo para el acceso al giróscopo de un móvil
 https://www.sitepoint.com/using-device-orientation-html5/
